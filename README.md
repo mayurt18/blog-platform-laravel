@@ -12,7 +12,6 @@ The platform is designed to be extendable, allowing for easy scalability as a **
 - **Scalable Architecture**: Designed with scalability in mind. Features include tagging, categorization, and an API for content management.
 - **Notifications**: Notify users when comments are added to their posts.
 - **Admin Dashboard**: Full-featured admin panel to manage content, users, and posts.
-- **RESTful API**: Exposes an API to interact with posts and comments (ideal for third-party integrations).
 - **Security**: Includes OAuth login, role-based permissions, and two-factor authentication.
 
 ## Requirements
