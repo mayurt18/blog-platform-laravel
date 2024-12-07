@@ -61,23 +61,6 @@ DB::table('users')->insert([
 php artisan serve
 You can now access the application at http://localhost:8000.
 
-Usage
-
-1. Admin Dashboard
-URL: /admin/dashboard
-Manage all posts and comments.
-
-2. Posts Management
-Create, update, delete, and view posts.
-Assign categories or tags to posts for better organization.
-
-3. Comments Management
-Add and delete comments on posts.
-
-4. Notifications
-View notifications for new comments on posts.
-Mark notifications as read.
-
 
 Improvements for Scalability
 Database Indexing: Optimized for scalability with proper indexing on posts and comments.
